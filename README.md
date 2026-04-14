@@ -1,6 +1,6 @@
 <h3 align="center">Hi! I'm Timofey</h3>
 
-Computer science student from Russia 🇷🇺
+[ITMO](https://en.itmo.ru) computer science student from Russia 🇷🇺.
 
 <h3 align="left">Projects</h3>
 
