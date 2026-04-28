@@ -15,6 +15,12 @@
   </li>
 </ul>
 
+<h3 align="left">Currently Interested In:</h3>
+
+* Low-level programming in C
+* Blockchain technologies
+* Rust 🦀
+
 <h3 align="left">Tools</h3>
 
 <table>
@@ -128,7 +134,7 @@
           decoding="async"
           loading="lazy"
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&theme=github_dark"
+          src="https://github-readme-stats.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&theme=github_dark&cache_seconds=86400"
           alt="All Stats"
         />
       </a>
@@ -139,7 +145,7 @@
           decoding="async"
           loading="lazy"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook,TeX,Html"
           alt="Top Langs"
         />
       </a>
