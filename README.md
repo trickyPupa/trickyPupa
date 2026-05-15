@@ -130,24 +130,44 @@
   <tr>
     <td align="center">
       <a href="https://github.com/trickyPupa">
-        <img
-          decoding="async"
-          loading="lazy"
-          align="center"
-          src="https://github-readme-stats.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&theme=github_dark&cache_seconds=86400"
-          alt="All Stats"
-        />
+        <picture>
+          <source
+            srcset="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&theme=github_dark&cache_seconds=172800"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=172800"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img
+            decoding="async"
+            loading="lazy"
+            align="center"
+            src="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api?username=trickyPupa&show_icons=true&include_all_commits=true&count_private=true&private=true&hide=contribs&hide_border=true&custom_title=GitHub%20Stats&cache_seconds=172800"
+            alt="All Stats"
+          />
+        </picture>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/trickyPupa?tab=repositories">
-        <img
-          decoding="async"
-          loading="lazy"
-          align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook,TeX,Html"
-          alt="Top Langs"
-        />
+        <picture>
+          <source
+            srcset="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook,TeX,Html&theme=github_dark&custom_title=Top%20Langs&cache_seconds=172800"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook,TeX,Html&custom_title=Top%20Langs&cache_seconds=172800"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img
+            decoding="async"
+            loading="lazy"
+            align="center"
+            src="https://github-readme-stats-bis1chka3-maxbarsukovs-projects.vercel.app/api/top-langs/?username=trickyPupa&layout=compact&langs_count=6&hide_border=true&hide=Jupyter%20Notebook,TeX,Html&custom_title=Top%20Langs&cache_seconds=172800"
+            alt="Top Langs"
+          />
+        </picture>
       </a>
     </td>
   </tr>
